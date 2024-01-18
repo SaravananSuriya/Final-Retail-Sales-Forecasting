@@ -2,6 +2,8 @@
 
 **Capstone Final Project assigned by Guvi**
 
+**Linkedin URL:** https://www.linkedin.com/in/saravanan-b-241468269/details/projects/
+
 **Project title:** Final-Retail-Sales-Forecasting
 
 **Skills take away From This Project:** Python scripting, Data Wrangling, EDA, Model Building, Streamlit.
