@@ -17,11 +17,6 @@ def app():
         df1 = pd.read_csv('Cleaned_Store_data2.csv')
         return df,df1
     df,df1 = dataframe()
-    # def dataframe1():
-    #     # df = pd.read_csv('Cleaned_Store_data.csv')
-    #     df1 = pd.read_csv('Cleaned_Store_data2.csv')
-    #     return df1
-    # df1 = dataframe1()
 
     choice = st.selectbox("**Select an option to Explore their data**", (['Explore of Weekly Sales','Explore of Markdown']))
 
