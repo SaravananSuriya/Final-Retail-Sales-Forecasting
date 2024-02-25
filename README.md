@@ -10,7 +10,7 @@
 
 **Domain:** upermarkets, Chain and Convenience Stores.
 
-**Dataset Link:** (Dataset)[https://drive.google.com/drive/folders/1-DX3a7-jraKDIPhJY1HNBSt5E4sA5hmb]
+**Dataset Link:** [Dataset](https://drive.google.com/drive/folders/1-DX3a7-jraKDIPhJY1HNBSt5E4sA5hmb)
 
 **Problem Statement:** Predict the department-wide sales for each store for the following year and the Model effects of markdowns on holiday weeks.
 
